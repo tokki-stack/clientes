@@ -112,7 +112,7 @@
             "log": "log",
             "recordLog": "Record Log"
         },
-        requerido required "packages": {
+        "packages": {
             "package": "Paquete",
             "scanDeSalida": "Scan de Salida",
             "scanDeRecepcion": "Scan de Recepcion",
